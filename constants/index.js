@@ -27,7 +27,7 @@ export const categories = [
     {
       id: 1,
       name: 'Black Coffee',
-      price: '25.50',
+      price: '60',
       volume: '116 ml',
       stars: '4.6',
       image: require('../assets/images/coffee1.png'),
@@ -37,7 +37,7 @@ export const categories = [
     {
       id: 2,
       name: 'Cappuccino',
-      price: '15.50',
+      price: '70',
       volume: '110 ml',
       stars: '4.3',
       image: require('../assets/images/coffee2.png'),
@@ -47,7 +47,7 @@ export const categories = [
     {
       id: 3,
       name: 'Espresso',
-      price: '30.00',
+      price: '35',
       volume: '100 ml',
       stars: '4.0',
       image: require('../assets/images/coffee3.png'),
@@ -56,7 +56,7 @@ export const categories = [
     {
       id: 4,
       name: 'Latte',
-      price: '10.30',
+      price: '45',
       volume: '80 ml',
       stars: '3.5',
       image: require('../assets/images/coffee4.png'),
@@ -65,7 +65,7 @@ export const categories = [
     {
       id: 5,
       name: 'Mocha',
-      price: '23.10',
+      price: '105',
       volume: '120 ml',
       stars: '4.7',
       image: require('../assets/images/coffee5.png'),
