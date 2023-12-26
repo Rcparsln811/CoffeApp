@@ -24,7 +24,7 @@ export default function CoffeCard({ item }) {
                 <Text style={styles.volumeValue}>{item.volume}</Text>
             </View>
             <View>
-                <Text style={{color:'white', fontWeight:'bold', marginTop:20, marginLeft:20, }}>$ {item.price}</Text>
+                <Text style={{color:'white', fontWeight:'bold', marginTop:20, marginLeft:20, }}>₺ {item.price}</Text>
 
 
             </View>
